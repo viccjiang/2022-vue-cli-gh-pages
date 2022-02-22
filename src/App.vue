@@ -3,6 +3,10 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
+  <h1>New Pages</h1>
+  <h2>new new new</h2>
+  <h3>sh deploy.sh</h3>
+  <h4>test success</h4>
   <router-view/>
 </template>
 
